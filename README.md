@@ -8,14 +8,7 @@ The goal of this little project was to learn how to use CGI on web servers and h
 How the system works
 ====================
 
-The communcation :  
-Smartphone <=web=> Server <=bluetooth=> Lego NXT  
-
-The 3 sub-projects :  
-Web UI (HTML/JS) <==> CGI App (C/C++) <==> Bluetooth Driver App (C/C++) <==> NXT  
-
-
-
+![Web UI (HTML/JS) <==> CGI App (C/C++) <==> Bluetooth Driver App (C/C++) <==> NXT](https://raw.github.com/Anozer/NXT-Web-Controller/master/docs/sch%C3%A9mas.png)
 
 Lego Mindstorm NXT  
 http://mindstorms.lego.com  
